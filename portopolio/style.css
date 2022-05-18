@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #aaaaaa;
+  background-image: url(img/bg1.jpg);
+  background-size: cover;
+}
+
+#About {
+  padding-top: 7rem;
+}
+body {
+  background-color: #cccccc;
+}
+
+#Gallery {
+  background-color: #aaaaaa;
+}
+
+#Random .row > * {
+  padding: 0;
+}
+#Random {
+  padding-top: 0rem;
+}
+section {
+  padding-top: 5rem;
+  padding-top: 4rem;
+}
+
+#footer {
+  background-color: rgb(0, 0, 0);
+}
